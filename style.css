@@ -12,7 +12,8 @@ body {
 
 nav a {
   margin-right: 50px;
-  padding: 30px;
+  padding: 10px 15px; 
+  display: inline-block;  
 }
 
 h1 {
