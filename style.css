@@ -1,6 +1,12 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  font-family: Georgia, serif; 
-  background-color: #E3B0F5;   
+  font-family: Georgia, serif;
+  background-color: #E7DDFF;
   padding: 20px;
 }
 
