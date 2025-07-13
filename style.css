@@ -1,0 +1,46 @@
+body {
+  font-family: Georgia, serif; 
+  background-color: #B6B0F5;   
+  margin: 20px;
+  padding: 20px;
+}
+
+h1 {
+  color: darkpink;
+}
+
+h2 {
+  color: darkpurple;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+  border-radius: 8px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.gallery figure {
+  width: calc(33% - 20px);
+  text-align: center;
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 8px;
+  border: 2px solid #D1B7F5;
+}
+
+.gallery figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #2E003E;
+}
