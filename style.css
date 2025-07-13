@@ -10,6 +10,10 @@ body {
   padding: 20px;
 }
 
+nav a {
+  margin-right: 20px;
+}
+
 h1 {
   color: #000000;
 }
@@ -25,8 +29,4 @@ p {
 img {
   width: 200px;
   border-radius: 8px;
-}
-
-nav a {
-  margin-right: 20px;
 }
