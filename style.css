@@ -6,7 +6,7 @@ html, body {
 
 body {
   font-family: Georgia, serif;
-  background-color: #E7DDFF;
+  background-color: #F3CEFF;
   padding: 20px;
 }
 
@@ -14,7 +14,6 @@ nav a {
   margin-right: 10px;
   padding: 5px 5px; 
   font-size: 20px;
-  color: #F699CD;
   display: inline-block;  
 }
 
