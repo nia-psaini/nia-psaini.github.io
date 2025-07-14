@@ -12,7 +12,8 @@ body {
 
 nav a {
   margin-right: 30px;
-  padding: 10px 15px; 
+  padding: 10px 10px; 
+  font-size: 20px;
   display: inline-block;  
 }
 
