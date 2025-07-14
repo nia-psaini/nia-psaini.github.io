@@ -43,14 +43,12 @@ ul, ol {
 }
 
 body.contacts-page {
-  max-width: 700px;
-  margin: 40px;
-  background: linear-gradient(to bottom right, #F9E55, #FFE6F0);
-  padding: 20px;
+  background: linear-gradient(to bottom right, #F9E555, #FFE6F0);
+  text-align: center;
 }
 
 .contact-card {
-  background-color: white;
+  background-color: #FFFFFF;
   padding: 20px;
   margin: 40px auto;
   border-radius: 10px;
