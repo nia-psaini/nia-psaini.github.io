@@ -45,7 +45,7 @@ ul, ol {
 body.resume-page {
   max-width: 700px;
   margin: 40px auto;
-  background-color: #d0e7f7;
+  background-color: #D0E7F7;
   padding: 20px;
   border-radius: 10px;
   text-align: center;
@@ -60,7 +60,7 @@ body.resume-page img {
 }
 
 body.resume-page h1 {
-  color: #1a3d7c;
+  color: #1A3D7C;
   margin-bottom: 15px;
 }
 
