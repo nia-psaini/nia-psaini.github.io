@@ -42,16 +42,11 @@ ul, ol {
   margin-right: auto;
 }
 
-body.contacts-page {
-  background: linear-gradient(to bottom right, #F9E555, #FFE6F0);
-  text-align: center;
-}
-
 .contact-card {
-  background-color: #FFFFFF;
+  background-color: white;
   padding: 20px;
-  margin: 40px auto;
+  margin: 40px auto; 
   border-radius: 10px;
-  max-width: 600px;
+  max-width: 600px;     
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
