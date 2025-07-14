@@ -48,7 +48,12 @@ body.resume-page {
   background-color: #D0E7F7;
   padding: 20px;
   border-radius: 10px;
+}
+
+body.resume-page h1,
+body.resume-page img {
   text-align: center;
+  margin: 0 auto 15px auto;
 }
 
 body.resume-page img {
@@ -56,11 +61,9 @@ body.resume-page img {
   max-width: 600px;
   border-radius: 10px;
   display: block;
-  margin: 0 auto 20px auto;
 }
 
 body.resume-page h1 {
   color: #1A3D7C;
-  margin-bottom: 15px;
 }
 
