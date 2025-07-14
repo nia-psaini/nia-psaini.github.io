@@ -8,6 +8,7 @@ body {
   font-family: Georgia, serif;
   background-color: #F3CEFF;
   padding: 20px;
+  text-align: center; 
 }
 
 nav a {
@@ -34,6 +35,13 @@ img {
   border-radius: 8px;
 }
 
+ul, ol {
+  text-align: left;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 body.personal-page {
   max-width: 700px;
   margin: 40px auto;
@@ -44,11 +52,5 @@ body.personal-page {
 
 body.personal-page h1,
 body.personal-page h2 {
-  text-align: center;
   color: #4b2e83;
-}
-
-body.personal-page ul {
-  margin-left: 20px;
-  list-style-type: square;
 }
