@@ -67,3 +67,29 @@ ul, ol {
   background: #D66A92;
 }
 
+dl {
+  text-align: left;
+  margin: 0 auto 20px auto;
+  display: inline-block;
+  font-size: 18px;
+  color: #333333;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 10px;
+}
+
+.contacts-page {
+  background-color: #FFF4FA;
+}
+
+.contact-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
