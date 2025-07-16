@@ -86,10 +86,3 @@ dd {
 .contacts-page {
   background-color: #FCD6E8;
 }
-
-.contact-card {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 10px;
-}
-
